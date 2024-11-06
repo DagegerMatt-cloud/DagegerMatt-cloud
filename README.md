@@ -1,6 +1,10 @@
 ## Hi there 👋
-
-<!--
+- 🔭 I’m currently working on a bachelor of IT
+- 🌱 I’m currently learning software development with c# as well as how to code in Unreal engine.
+- 📫 How to reach me:  Discord: DaggerMatt
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Every otter has a secret name only they know, whispered to them by the river itself. They guard it fiercely, believing it gives them the power to charm fish and find the best sunbathing spots.
+<!-- 
 **DagegerMatt-cloud/DagegerMatt-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
